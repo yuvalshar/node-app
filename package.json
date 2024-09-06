@@ -1,0 +1,22 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "The first time that I using node.js at project",
+  "main": "index.js",
+  "scripts": {
+    "test": "demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvalshar/node-app.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Yuval Shar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvalshar/node-app/issues"
+  },
+  "homepage": "https://github.com/yuvalshar/node-app#readme"
+}
